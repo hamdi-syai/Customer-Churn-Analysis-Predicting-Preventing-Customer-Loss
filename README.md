@@ -87,7 +87,7 @@ Each model was evaluated on Net Profit, Total Savings, and ROI from applying its
 - Use the best-performing model to score customer base monthly and trigger targeted outreach
 
 ## 📸 Visualizations
-*(Add key charts from the notebook here)*
+
 
 ## 🚀 Future Improvements
 - Apply SMOTE or resampling techniques to handle class imbalance more explicitly
