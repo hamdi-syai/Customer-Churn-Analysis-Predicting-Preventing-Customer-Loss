@@ -17,8 +17,6 @@ The dataset contains customer-level information sourced from Kaggle, including:
 - Usage metrics (Support Calls, Payment Delay)
 - Churn label (target variable)
 
-> **Source:** [Customer Churn Dataset — Kaggle](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
-
 ## 🛠️ Tools & Technologies
 - Python
 - Pandas
@@ -87,6 +85,10 @@ Each model was evaluated on Net Profit, Total Savings, and ROI from applying its
 - Use the best-performing model to score customer base monthly and trigger targeted outreach
 
 ## 📸 Visualizations
+
+<img width="1589" height="985" alt="téléchargement" src="https://github.com/user-attachments/assets/af386310-31b1-4c68-b487-afbf16acc726" />
+
+<img width="1589" height="1189" alt="téléchargement (1)" src="https://github.com/user-attachments/assets/74ee30bf-0c6a-422a-9149-4154478e740d" />
 
 
 ## 🚀 Future Improvements
